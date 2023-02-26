@@ -3,12 +3,12 @@ Smart plant watering is a system that uses technology to automate and optimize t
 # Software Tools Used
 Thingspeak cloud
 # Hardware Components USed
-node MCU
-dht 11 
-Soil moisture sensor 100
-Single channel relay 70
-Small water pump 250
-9V Battery , 5V Adapter with cable
-Jumper wires 60
-Wooden plane 100
-lcd display
+node MCU,
+ dht 11, 
+ Soil moisture sensor 100,
+ Single channel relay 70,
+ Small water pump 250,
+ 9V Battery , 5V Adapter with cable,
+ Jumper wires 60,
+ Wooden plane 100,
+ lcd display.
